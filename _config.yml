@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Chang Chen / Site Title"
+title                    : "Chang Chen / CC's Borderland"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chang Chen"
+description              : &description "I received my B.S. degree in software engineering from Northeastern University, Liaoning, China, in 2019, and my M.S. degree in computer science from Guangzhou University, Guangzhou, China. I am currently pursuing a Ph.D. degree at Beijing Jiaotong University, Beijing, China. My research interests include blockchain consensus and applied cryptography."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
