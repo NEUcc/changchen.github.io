@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Northeastern University, China, 2015.09-2019.06
+* FES, Hiroshima University, Japan, 2017.09-2018.02
+* M.S. in Computer technology, Guangzhou University, China, 2019.09-2022.06
+* Ph.D in Cyberspace Security, Beijing Jiaotong University, 2022.09-
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
