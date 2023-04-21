@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Northeastern University, China🇨🇳, 2015.09-2019.06
-* FES, Hiroshima University, Japan🇯🇵, 2017.09-2018.02
-* M.S. in Computer technology, Guangzhou University, China🇨🇳, 2019.09-2022.06
-* Ph.D in Cyberspace Security, Beijing Jiaotong University, China🇨🇳, 2022.09-
+* B.S. in Software Engineering      Northeastern University         China🇨🇳     2015.09-2019.06
+* FES                               Hiroshima University            Japan🇯🇵     2017.09-2018.02
+* M.S. in Computer technology       Guangzhou University            China🇨🇳     2019.09-2022.06
+* Ph.D in Cyberspace Security       Beijing Jiaotong University     China🇨🇳     2022.09-
 
 <!-- Work experience
 ======
